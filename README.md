@@ -31,7 +31,7 @@ docker-compose stop
 см. yatube_api/static/redoc.yaml  или после запуска на localhost по ссылке http://localhost/redoc/
 
 ### Примеры запросов API к сайту
-Запрос на просмотр произведений:
+Запрос на просмотр произведений :
 ```
 GET http://127.0.0.1:8000/api/v1/titles/
 ```
